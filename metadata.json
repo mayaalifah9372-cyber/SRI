@@ -1,0 +1,6 @@
+{
+  "name": "SRI - Seni Rancang Inspirasi",
+  "description": "Platform e-commerce dan landing page Teaching Factory (TEFA) Teknik Grafika SMK Negeri 1 Kaligondang dengan katalog barang/jasa percetakan, kasir POS online/offline, integrasi dokumen Drive & database Spreadsheet.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
